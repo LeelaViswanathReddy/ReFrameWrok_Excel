@@ -156,7 +156,7 @@
                           <av:Size x:Key="ShapeSize">200,68.8</av:Size>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
-                      <Sequence DisplayName="Sequence For MasterCard" sap:VirtualizedContainerService.HintSize="960.8,972" sap2010:WorkflowViewState.IdRef="Sequence_8">
+                      <Sequence DisplayName="Sequence For MasterCard" sap:VirtualizedContainerService.HintSize="200,68.8" sap2010:WorkflowViewState.IdRef="Sequence_8">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
